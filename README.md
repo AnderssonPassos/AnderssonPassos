@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Anderson Passos
 
-<!--
-**AnderssonPassos/AnderssonPassos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento Web** com 1 ano de estudos práticos. Atualmente estou focado em aprender e criar projetos usando **HTML, CSS, JavaScript, jQuery e Python** com o objetivo de entrar no mercado de tecnologia ainda este ano.
 
-Here are some ideas to get you started:
+- 💻 Curso Full Stack Python em andamento
+- 🛠 Tecnologias: HTML, CSS, JS, jQuery, Python
+- 📚 Estudando lógica de programação, estruturas de dados e construção de APIs
+- 🎯 Buscando minha primeira oportunidade como Desenvolvedor Júnior
+- 💍 Casando no fim do ano — motivação não falta!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Projetos em Destaque
+
+- 🔹 [Lista de Tarefas com jQuery](https://github.com/AnderssonPassos/NOME-DO-REPO)
+  - Aplicação simples e funcional para gerenciar tarefas do dia a dia
+  - Feita com HTML, CSS, jQuery
+
+
+📫 **Entre em contato comigo**  
+[LinkedIn](https://www.linkedin.com/in/anderson-passos-18499b32b/)  
+Email: andersson.passos04@gmail.com
+
+
